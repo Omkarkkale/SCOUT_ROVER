@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Project Overview
+## ℹ️ About The Project
 
 This project simulates the complete lifecycle of a Martian rock analysis mission, extending beyond standard navigation simulations to include **realistic scientific instrument modeling**. It serves as a testbed for developing autonomous decision-making algorithms for planetary exploration.
 
